@@ -1,0 +1,2 @@
+# PersonificationClassifier2
+擬人法判定システム
